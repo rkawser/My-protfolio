@@ -1,0 +1,24 @@
+
+
+.servics-text{
+    text-align: justify;
+}
+.servics-border{
+    border-bottom: 5px solid aqua;
+}
+
+.service-card{
+    background-color: rgba(0, 0, 139, 0.664);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    /* box-shadow: 0.5rem 0.5rem #FF87CA, -0.5rem -0.5rem aqua!important */
+}
+
+.service-card:hover{
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0.5rem 0.5rem aqua, -0.5rem -0.5rem #FF87CA!important
+
+    
+}

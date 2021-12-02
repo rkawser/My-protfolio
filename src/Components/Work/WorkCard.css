@@ -1,0 +1,21 @@
+
+
+.work-card{
+    height: 500px!important
+   
+}
+
+.work-body{
+    text-align: justify;
+    background-color: #344CB7;
+    color: whitesmoke;
+}
+
+.card-link{
+    display: flex;
+}
+
+.card-link button{
+    width: 100px;
+    height: 50px;
+}

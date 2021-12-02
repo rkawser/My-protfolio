@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Travalo",
+      "img": "https://i.ibb.co/GWTgHVG/slider1-1.png",
+      "img_a": "https://i.ibb.co/PY1DM4k/screenbud-359c95a9-7e7a-436b-855f-54bbe18915e9-1.png",
+      "img_b": "https://i.ibb.co/NV9Q4Mx/screencapture-traveleo-traveler-raihan-netlify-app-2021-12-01-09-53-31-1.png",
+      "description": "Travel agency Website Users can book any travel places and also can cancel the booking.Fully Responsive website. and Implement the Firebase Authentication system.",
+      "tec": "React.js, Node.js, Expresss.js, MongoDB, Firebase, React-Bootstrap,CSS3, React hook form.",
+      "link":"https://traveleo-traveler-raihan.netlify.app/",
+      "link_a":"https://github.com/rkawser/Travel-client-site",
+      "link_b":"https://github.com/rkawser/Travel-server",
+      "id": 1
+    },
+    {
+      "name": "Bike Club",
+      "img": "https://i.ibb.co/Bz1CB4h/slider2.png",
+      "img_a": "https://i.ibb.co/9YcSyP1/screenbud-31696d12-f978-49d4-ab31-58a388a77bc1-1.png",
+      "img_b": "https://i.ibb.co/whpMhbK/screencapture-bicycle-4a9ef-web-app-2021-12-01-09-51-16-2.png",
+      "description": "Bike Club, This is a commerce website.CRUD operations are implemented.Users on this site can add podcasts, cancel products and review on websites",
+      "tec": "React.js, Node.js, Expresss.js, MongoDB,Context Api, Firebase, React-Bootstrap,CSS3, React hook form.",
+      "link":"https://bicycle-4a9ef.web.app/",
+      "link_a":"https://github.com/rkawser/Bike-Club",
+      "link_b":"https://github.com/rkawser/Bike-club-server",
+      "id": 2
+    },
+    {
+      "name": "MedLife",
+      "img": "https://i.ibb.co/pK54rXS/slider3.png",
+      "img_a": "https://i.ibb.co/ZW8wfjh/screenbud-07737563-bba7-4df3-a2c0-ab552ed7578f-1-1.png",
+      "img_b": "https://i.ibb.co/vdj0mNt/screenbud-c9e3c5a4-7fc1-41c6-bb19-704f6e4a4ded-1.png",
+      "description": "MedLife,This project is used for medical health facilities.Used React-Router & site is fully responsive. And Implement the Firebase Authentication system.",
+      "tec": "React.js, Firebase, React-Bootstrap,CSS3, React hook form.",
+      "link":"https://fir-authentication-73a2b.web.app/",
+      "link_a":"https://github.com/rkawser/MedLife",
+      "id": 3
+    },
+    {
+      "name": "EduLe",
+      "img": "https://i.ibb.co/6s09V67/screenbud-01ab0257-37eb-49d8-8cfd-6af103de323f-1-1.png",
+      "img_a": "https://i.ibb.co/RNSqvqS/screencapture-vibrant-colden-c70005-netlify-app-about-2021-12-01-09-57-28-1.png",
+      "img_b": "https://i.ibb.co/Pj92BfN/screencapture-vibrant-colden-c70005-netlify-app-service-2021-12-01-09-57-06-1.png",
+      "description": "EduLe,This is Web Course Sales Website. this is a website Learn about the website and buy web courses from this website",
+      "tec": "React.js, Firebase, React-Bootstrap,CSS3,",
+      "link":"https://vibrant-colden-c70005.netlify.app/",
+      "link_a":"https://github.com/rkawser/Edule",
+      "id": 4
+    }
+  ]

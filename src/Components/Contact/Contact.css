@@ -1,0 +1,14 @@
+
+
+
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    
+.contact-form input, textarea ,button{
+        width: 50%;
+        margin-top: 10px;
+};
