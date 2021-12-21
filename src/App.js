@@ -9,6 +9,7 @@ import ContactForm from './Components/Contact/ContactForm';
 import Details from './Components/Details/Details';
 import About from './Components/About/About';
 import Blog from './Components/Blog/Blog';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -19,9 +20,11 @@ function App() {
      <Switch>
        <Route exact path='/'>
        <Home></Home>
+       <Footer></Footer>
        </Route>
        <Route path='/home'>
        <Home></Home>
+       <Footer></Footer>
        </Route>
        <Route path='/experience'>
       <Experience></Experience>
@@ -47,6 +50,7 @@ function App() {
        <NotFound></NotFound>
        </Route>
      </Switch>
+     
      </BrowserRouter>
     
       
@@ -54,5 +58,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

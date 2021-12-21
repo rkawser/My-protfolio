@@ -19,11 +19,43 @@ body{
    
 }
 
-
 .home-text{
     text-align: justify;
     padding: 20px;
 }
 
-/* btn design */
+/* Link design */
 
+.link-style{
+    color: whitesmoke;
+    font-size: 50px;
+    background-color: turquoise;
+    padding: 10px;
+    border-radius:50%;
+}
+
+.link-style:hover{
+    color: whitesmoke;
+    font-size: 50px;
+    background-color:#F999B7 ;
+    padding: 10px;
+    border-radius:50%;
+}
+
+/* hero-section */
+.banner-img{
+    background-color: #9088D4;
+    border:5px solid #FABB51;
+    /* border-left: 10px solid #FF87CA;
+    border-right:10px solid #84DFFF;
+    border-top: 10px solid #84DFFF;
+    border-bottom: 10px solid #FF87CA; */
+}
+
+.banner-img:hover{
+    background-color: #716F81;
+    border-left: 10px solid #FF87CA;
+    border-right:10px solid #84DFFF;
+    border-top: 10px solid #84DFFF;
+    border-bottom: 10px solid #FF87CA;
+}
