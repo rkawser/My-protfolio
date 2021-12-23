@@ -1,7 +1,5 @@
 
 
-
-
 .contact-form{
     display: flex;
     flex-direction: column;
@@ -9,6 +7,20 @@
     }
     
 .contact-form input, textarea ,button{
-        width: 50%;
+        width: 70%;
         margin-top: 10px;
 };
+
+.contact-text{
+    background-color: aqua;
+    border: 2px solid whitesmoke;
+}
+
+
+.contact-style{
+    display: flex;
+    align-items: center;
+    height: 400px;
+    text-align: justify;
+}
+
